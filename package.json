@@ -1,20 +1,21 @@
 {
-  "name": "v3-core",
-  "description": "🦄 Core smart contracts of Uniswap V3",
+  "name": "dharma-v3-core",
+  "description": "Core smart contracts of Dharma V3",
   "license": "BUSL-1.1",
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.0",
-  "homepage": "https://uniswap.org",
+  "version": "0.0.1",
+  "homepage": "https://",
   "keywords": [
-    "uniswap",
-    "core",
-    "v3"
+    "dharma exchange",
+    "bsc",
+    "v3",
+    "core"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v3-core"
+    "url": "https://github.com/DharmaExchange/dharma-v3-core"
   },
   "files": [
     "contracts/interfaces",
