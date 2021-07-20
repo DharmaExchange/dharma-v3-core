@@ -2,6 +2,14 @@
 
 This repository contains the core smart contracts for the Dharma V3 Protocol.
 
+The corresponding [npm package](https://www.npmjs.com/package/dharma-v3-core
+) can be installed with:
+
+```
+npm install dharma-v3-core
+```
+
+
 ## Licensing
 
 The primary license for Dharma V3 Core is the Business Source License 1.1 (`BUSL-1.1`), see [`LICENSE`](./LICENSE).
